@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Rahim Uddin",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "rahim.uddin@gmail.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Met in university. Love hiking together.",
+    "goal": 30,
+    "next_due_date": "2026-11-10"
+  },
+  {
+    "id": 2,
+    "name": "Emily Watson",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "emily.watson@gmail.com",
+    "days_since_contact": 40,
+    "status": "overdue",
+    "tags": ["work"],
+    "bio": "Former teammate at my first job. Always shares great book recommendations.",
+    "goal": 21,
+    "next_due_date": "2026-11-12"
+  },
+  {
+    "id": 3,
+    "name": "Tanvir Ahmed",
+    "picture": "https://randomuser.me/api/portraits/men/45.jpg",
+    "email": "tanvir.ahmed@gmail.com",
+    "days_since_contact": 25,
+    "status": "almost due",
+    "tags": ["school", "cricket"],
+    "bio": "Childhood friend. We still play cricket together every winter.",
+    "goal": 30,
+    "next_due_date": "2026-11-20"
+  },
+  {
+    "id": 4,
+    "name": "Sara Khan",
+    "picture": "https://randomuser.me/api/portraits/women/68.jpg",
+    "email": "sara.khan@gmail.com",
+    "days_since_contact": 18,
+    "status": "almost due",
+    "tags": ["neighbor"],
+    "bio": "Lives next door. We swap recipes and plant cuttings.",
+    "goal": 21,
+    "next_due_date": "2026-11-15"
+  },
+  {
+    "id": 5,
+    "name": "Nusrat Jahan",
+    "picture": "https://randomuser.me/api/portraits/women/12.jpg",
+    "email": "nusrat.jahan@gmail.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["college", "study group"],
+    "bio": "Study partner from university. Preparing for her masters abroad.",
+    "goal": 14,
+    "next_due_date": "2026-11-16"
+  },
+  {
+    "id": 6,
+    "name": "Arif Hossain",
+    "picture": "https://randomuser.me/api/portraits/men/75.jpg",
+    "email": "arif.hossain@gmail.com",
+    "days_since_contact": 9,
+    "status": "on-track",
+    "tags": ["work", "mentor"],
+    "bio": "My first manager and mentor. Gives honest career advice.",
+    "goal": 30,
+    "next_due_date": "2026-12-05"
+  },
+  {
+    "id": 7,
+    "name": "Mitu Akter",
+    "picture": "https://randomuser.me/api/portraits/women/21.jpg",
+    "email": "mitu.akter@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["family", "cousin"],
+    "bio": "Cousin who lives in Chattogram. We chat about movies and travel.",
+    "goal": 14,
+    "next_due_date": "2026-11-18"
+  },
+  {
+    "id": 8,
+    "name": "Imran Hasan",
+    "picture": "https://randomuser.me/api/portraits/men/52.jpg",
+    "email": "imran.hasan@gmail.com",
+    "days_since_contact": 33,
+    "status": "overdue",
+    "tags": ["gym", "close friend"],
+    "bio": "Gym buddy who keeps me motivated. Planning a trip to Sylhet soon.",
+    "goal": 14,
+    "next_due_date": "2026-11-09"
+  }
+]

@@ -7,6 +7,17 @@ const nextConfig = {
   cacheComponents: true,
   partialPrefetching: true,
   reactCompiler: true,
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'res.cloudinary.com',
+        port: '',
+        pathname: '/dj493l0jy/image/upload/**',
+        search: '',
+      },
+    ],
+  },
   turbopack: {
     rules: {
       "*.css": {
