@@ -17,6 +17,7 @@
     "recharts": "^3.10.1"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.5",
     "@tailwindcss/turbopack": "^4",
     "babel-plugin-react-compiler": "1.0.0",
     "daisyui": "^5.7.50",
