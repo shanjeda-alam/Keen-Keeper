@@ -16,6 +16,14 @@ const nextConfig = {
         pathname: '/dj493l0jy/image/upload/**',
         search: '',
       },
+      {
+        protocol: 'https',
+        hostname: 'i.pravatar.cc',
+      },
+      {
+        protocol: 'https',
+        hostname: 'randomuser.me',
+      },
     ],
   },
   turbopack: {
